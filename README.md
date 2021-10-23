@@ -45,7 +45,7 @@ _for Docker Composer: https://docs.docker.com/compose/install/_
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/ArthurSStrong/djangochat.git
    ```
 3. Install the needed containers
    ```sh
