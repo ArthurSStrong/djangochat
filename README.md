@@ -1,6 +1,4 @@
-<!-- ABOUT THE PROJECT -->
 ## About The Project
-
 
 Just wanted to do a simple Django App.
 
